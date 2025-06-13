@@ -15,7 +15,7 @@ font-weight:400;
 }
 
 body{
-    color: var( --branco)
-    bacground-color: var(var(--cor-de-fundo)
-    font-family: var(var(--roboto)
+    color: var( --branco);
+    bacground-color: var(--cor-de-fundo);
+    font-family: (var--roboto);
 }
